@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Ian Doran
 tagline:          'My Coding Journey'
 description:      'A rambling document following my journey as I learn to code.'
-url:              http://hyde.getpoole.com
+url:              
 baseurl:          /
 
 author:
   name:           'Ian Doran'
-  url:            https://twitter.com/Doran_Ian
+  url:            
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/IanDoran
+  repo:           
